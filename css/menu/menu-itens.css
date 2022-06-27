@@ -1,0 +1,9 @@
+.menu__itens {
+    list-style: none;
+     
+}
+
+.menu__itens:hover {
+    color: #242540;
+    text-decoration: underline;
+}

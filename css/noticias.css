@@ -1,0 +1,12 @@
+.noticias {
+    background: #f2f2f2;
+    margin: 0px auto; 
+    padding: 10px;
+    position: relative;   
+    width: 900px;
+}
+
+.bordar {
+    border-bottom: 1px solid #242540;
+    width: 96%;
+}

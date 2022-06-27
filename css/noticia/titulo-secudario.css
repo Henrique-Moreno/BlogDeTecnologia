@@ -1,0 +1,9 @@
+.titulo__secudario {
+    color: #242540;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 9px;
+    position: relative;
+    right: 245px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,23 @@
+.texto__informativo{
+    color: #242540;
+    font-size: 1.1em;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.texto__informativo {
+    display: inline-block;
+    padding: 29px;
+    position: absolute;
+    vertical-align: top;
+}
+
+.titulo__verde {
+    color: #208c3b;
+}
+
+.titulo__laranja {
+    color: #e3562b;
+}

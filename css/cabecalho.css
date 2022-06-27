@@ -1,0 +1,17 @@
+.cabecalho {
+    background: #4B69A6;
+    padding: 12px;
+}
+
+.titulo__principal {
+    color: #F2F2F2;
+    font-size: 3em;
+    font-weight: bold;
+    padding: 33px;
+    text-align: center;
+}
+
+.titulo__principal::first-letter {
+    color: #0D0D0D;
+}
+

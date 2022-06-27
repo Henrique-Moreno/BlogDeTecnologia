@@ -1,0 +1,10 @@
+.noticia__titulo {
+    color: #242540;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 16px;
+    position: relative;
+    padding: 22px;
+    right: 164px;
+    text-transform: uppercase;
+}
